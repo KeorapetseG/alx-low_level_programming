@@ -13,19 +13,3 @@ print_diagonal(10);
 print_diagonal(-4);
 return (0);
 }
-julien@ubuntu : ~0x04$ gcc - Wall  _ putchar.c 7 - diagonals
-julien@ubuntu : ~0x04$ . / 7 - diagonals | cat - e
-$
-\$
-\$
-\$
-\$
-\$
-\$
-\$
-\$
-\$
-\$
-\$
-\$
-$
